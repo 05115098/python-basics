@@ -68,3 +68,10 @@ The test suite covers basic arithmetic operations and error handling.
 This project is part of my journey to learn Python programming, software development tools, Git, and GitHub.
 
 Future topics will include data analysis, machine learning, and deep learning.
+
+## Learning Progress
+
+- Learned basic Python syntax
+- Built a simple calculator
+- Added unit tests
+- Learned basic Git and GitHub operations
